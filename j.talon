@@ -184,9 +184,10 @@ fold single reverse:  "F.:"
 fold multiple:        "F:"
 fold multiple forward:"F:."
 fold multiple reverse:"F::"
-
-
-
-
-
-integers: "i."
+hypergeometric:       "H."
+integers:             "i."
+index of:             "i."
+steps:                "i:"
+index of last:        "i:"
+indices:              "I."
+interval index:       "I."
