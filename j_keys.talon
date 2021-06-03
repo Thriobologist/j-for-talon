@@ -2,6 +2,7 @@ os: mac
 app: jqt
 
 -
-(previous line):  key(cmd-shift-up)
-(next line):      key(cmd-shift-down)
+#history keys not working
+#(previous history):  key(cmd-shift up)
+#(next history):      key(cmd-shift down)
 (new temp):       key(cmd-n)
